@@ -38,9 +38,10 @@ Here are some ideas to get you started:
  ![linkedin](https://user-images.githubusercontent.com/72845337/109427361-d5ad6080-79d0-11eb-8681-10b4844dfe03.png)
 <a href="https://www.linkedin.com/in/mayara-dorneles"> [LinkedIn](https://www.linkedin.com/in/mayara-dorneles-93990868/) 
  
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayarapreta&hide=html&layout=compact&theme=buefy" />
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayarapreta&hide=html&layout=compact&theme=jolly"/>
  
- 
+
+
   
  
 
