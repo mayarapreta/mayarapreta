@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayarapreta&hide=html&layout=compact&theme=jolly"/>
  
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayarapreta&hide=compact)](https://github.com/mayarapreta&hide/github-readme-stats)
   
  
 
