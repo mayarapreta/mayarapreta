@@ -1,17 +1,6 @@
 <!--  
 **mayarapreta/mayarapreta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
  <!-- apresentacao -->
 >:balloon:        Boas vinda ao meu  perfil  : 
@@ -27,7 +16,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-> 
 <!-- minha rede sociais -->
 
  ![linkedin](https://user-images.githubusercontent.com/72845337/109427361-d5ad6080-79d0-11eb-8681-10b4844dfe03.png)
@@ -35,7 +23,9 @@ Here are some ideas to get you started:
  
 
  <img width= "400px" align="left" src="https://github-readme-stats.vercel.app/api?username=mayarapreta&theme=blue-green"/>
- 
+ <img  heigth= "400em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=mayarapreta&theme=blue-green"/>
+
+
 
 
   
