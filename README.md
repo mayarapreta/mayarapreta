@@ -17,11 +17,8 @@
 ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )
 <a href="https://www.linkedin.com/in/mayara-dorneles">
 <!-- minha rede sociais -->
- 
-
-
- <img width= "400px" align="left" src="https://github-readme-stats.vercel.app/api?username=mayarapreta&theme=synthwave"/>
- <img  heigth= "400em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=mayarapreta&theme=synthwave"/>
+ <img width= "400px" align="left" src="https://github-readme-stats.vercel.app/api?username=mayarapreta&theme=dracula"/>
+ <img  heigth= "400em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=mayarapreta&layout=compact&theme=dracula"/>
 
 
 
